@@ -1,0 +1,8 @@
+"""Color"""
+BACKGROUND_COLOR_WINDOW = "#0F172A"
+FOREGROUND_COLOR = "#E5E5E5"
+
+
+"""Fonts"""
+TITLE_FONT = "Arial 20"
+INPUT_FONT = "Arial 13"
